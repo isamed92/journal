@@ -16,5 +16,6 @@ export const AppRouter = () => {
               />
         </Routes>
     </BrowserRouter>
+
   )
 }
